@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.17",
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "todo_list7",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "todo_list7": "index.ts"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.6"
+  }
+}
